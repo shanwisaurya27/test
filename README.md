@@ -1,4 +1,2 @@
-This is my first github push repo. Thank you!
-Very good
----
+If you don't take risks, you can't create a future. — Monkey D. Luffy, One Piece
 
